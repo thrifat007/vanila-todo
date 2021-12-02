@@ -2,7 +2,7 @@
 
 ![Project Image](https://i.imgur.com/BsN1X6o.png)
 
-## Live Site Lnk
+## Live Site Link
 [Click Here](https://vanilla-todoapp.netlify.app/)
 
 ---
@@ -27,7 +27,7 @@ In this Project I have created a TODO List App in vanilla js.
 - CSS
 - JAVASCRIPT
 
-[Back To The Top](#todo-app)
+[Back To The Top](#vanilla-js-todo-app)
 
 ---
 
@@ -40,14 +40,14 @@ In this Project I have created a TODO List App in vanilla js.
 
 
 ```html
-    gh repo clone thrit007/vanilla-todo
+    gh repo clone thrifat007/vanilla-todo
 ```
-[Back To The Top](#todo-app)
+[Back To The Top](#vanilla-js-todo-app)
 
 ---
 
 ## References
-[Back To The Top](#todo-app)
+[Back To The Top](#vanilla-js-todo-app)
 
 ---
 
@@ -75,7 +75,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#todo-app)
+[Back To The Top](#vanilla-js-todo-app)
 
 ---
 
@@ -85,4 +85,4 @@ SOFTWARE.
 - Linkedin - [@thriat007](https://www.linkedin.com/in/thrifat007)
 - Website - [Tasnimul Hasan Rifat](https://tasnimulhasan.com)
 
-[Back To The Top](#todo-app)
+[Back To The Top](#vanilla-js-todo-app)
